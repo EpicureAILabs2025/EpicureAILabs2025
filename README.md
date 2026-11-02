@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="EpicureAI Labs — AI that amplifies people, at work and in care." src="assets/banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="/banner-dark.png">
+  <img alt="EpicureAI Labs — AI that amplifies people, at work and in care." src="/banner-light.png" width="100%">
 </picture>
 
 <p align="center">
